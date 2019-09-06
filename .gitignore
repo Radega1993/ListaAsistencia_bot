@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 #auth
-auth.py
+ListaAsistencia_bot/listaAsistencia/config/auth.py
